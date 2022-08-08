@@ -1,8 +1,2 @@
 hello world !!!
 world hello !!!
-
-
-some new few text
-and more and more
-and more
------------------------------
